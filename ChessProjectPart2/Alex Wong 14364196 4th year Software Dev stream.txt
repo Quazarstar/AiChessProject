@@ -1,0 +1,22 @@
+This is just so you know who's folder this is. I'll also paste info from the word doc here for calrity.
+
+Alex Wong
+14364196
+Software Development Stream
+Introduction to AI. 
+CA 4 information.
+
+To run the chess project there are two ways to do so depending on the application used. 
+If using Atom please install the Script add-on and run through the script by going to the ChessProject.java file and pressing CTRL + Shift + B This should run the application.
+If using IntelliJ it’s a bit more tricky. As the application’s base form would not properly run on IntelliJ. I had to link it up with Java 9. And then run through the Command Line by moving to the folder that the ChessProject was in and then typing “java ChessProject.java”. Or javac instead of Java If that doesn’t work. 
+
+References below
+These references we’re used to give me a better understanding of how to implement the Best move and Random AI script. Although I was unable to finish it completely these are what I used as research material. 
+
+References
+Chessprogramming.wikispaces.com. (2017). chessprogramming - Best-First. [online] Available at: https://chessprogramming.wikispaces.com/Best-First [Accessed 3 Dec. 2017].
+Chessprogramming.wikispaces.com. (2017). chessprogramming - Pieces. [online] Available at: https://chessprogramming.wikispaces.com/Pieces [Accessed 3 Dec. 2017].
+Chessprogramming.wikispaces.com. (2017). chessprogramming - Minimax. [online] Available at: https://chessprogramming.wikispaces.com/Minimax [Accessed 3 Dec. 2017].
+Chessprogramming.wikispaces.com. (2017). chessprogramming - Alpha-Beta. [online] Available at: https://chessprogramming.wikispaces.com/Alpha-Beta [Accessed 3 Dec. 2017].
+freeCodeCamp. (2017). A step-by-step guide to building a simple chess AI – freeCodeCamp. [online] Available at: https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977 [Accessed 3 Dec. 2017].
+
